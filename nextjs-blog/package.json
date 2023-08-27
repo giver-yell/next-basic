@@ -8,6 +8,7 @@
   "dependencies": {
     "clsx": "^2.0.0",
     "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "gray-matter": "^4.0.3",
     "next": "latest",
     "react": "18.2.0",
